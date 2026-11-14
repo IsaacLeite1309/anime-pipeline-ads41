@@ -1,0 +1,11 @@
+.venv/
+.runtime/
+data/
+__pycache__/
+*.log
+.env
+.env.*
+!.env.example
+/CONFORMIDADE_N2.md
+/VALIDACAO.md
+*.zip
